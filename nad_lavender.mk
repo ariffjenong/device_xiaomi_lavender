@@ -15,7 +15,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Inherit some common Nusantara Project stuff
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 NAD_BUILD_TYPE := OFFICIAL
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 720
 TARGET_SUPPORTS_QUICK_TAP := true
 
 # Device identifier. This must come after all inclusions.
