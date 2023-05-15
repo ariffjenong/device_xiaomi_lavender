@@ -162,6 +162,7 @@ PRODUCT_PACKAGES += \
     gralloc.sdm660 \
     hwcomposer.sdm660 \
     libdisplayconfig \
+    libtinyxml \
     memtrack.sdm660 \
     vendor.display.config@2.0 \
     vendor.display.config@2.0_vendor
